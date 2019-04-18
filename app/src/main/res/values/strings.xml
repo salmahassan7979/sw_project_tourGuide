@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sw_project_tourGuide</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newacc">Create New Account</string>
+    <string name="or">  _____________or_____________
+    </string>
+    <string name="accgmail">sign in with Google+</string>
+</resources>
